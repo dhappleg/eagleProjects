@@ -1,5 +1,8 @@
 # Michgian Tech: Open Source Roller Bottle Apparatus - Circuit design files
 
+# Software Used
+Software needed to control the arduino and UI for this board. [RollerBottle](https://github.com/dhappleg/RollerBottle)
+
 ### Requirements 
 * [Autodesk Eagle](https://www.autodesk.com/products/eagle/overview)
 
