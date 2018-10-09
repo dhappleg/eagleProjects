@@ -1,3 +1,4 @@
+![MTU Logo](https://www.mtu.edu/mtu_resources/images/logos/michigan-tech-logo.svg)
 # Michgian Tech: Open Source Roller Bottle Apparatus - Circuit design files
 
 # Software Used
